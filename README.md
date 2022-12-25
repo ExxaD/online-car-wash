@@ -3,7 +3,7 @@
 The local car washes are outdated nowadays. Aren't they? We have a bunch of solutions for the daily services we use like taxi, food ordering, different kinds of bookings, phone contactless payments, etc. Technologies became so convenient in many spheres of our lives that they become an essential part of ourselves. It looks like the car washes are trying to avoid all this modern technologies. Why not?
 
 ## Benefits
-The main idea of this project is to bring car washes back to the 21st century, make them available for everyone, and make them online. This solution will make life easier on both sides. 
+The main idea of this project is to bring car washes back to the 21st century, make them available for everyone, and make them online. This solution will make life easier for both sides. 
 ### For the car owners:
 * no more "live" queues;
 * you know the exact time when you need to arrive;
