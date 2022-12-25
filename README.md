@@ -11,7 +11,7 @@ The main idea of this project is to bring car washes back to the 21st century, m
 * you are able to pay in the app using your credit card;
 * you can leave feedback.
 
-### For the car washes workers/administrators:
+### For the car washes workers/managers:
 * you don't have sudden overheads because the work is well planned;
 * you get feedback from your customers;
 * you collect the statistics for all car washes, for each car wash worker;
