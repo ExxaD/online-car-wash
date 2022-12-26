@@ -36,4 +36,5 @@ The main idea of this project is to bring car washes back to the 21st century, m
 * Public Speaking
 
 ## Explore
+* [Repository](https://github.com/ExxaD/online-car-wash)
 * [Wiki pages](https://github.com/ExxaD/online-car-wash/wiki)
